@@ -1,0 +1,25 @@
+body
+{
+    background-size: cover;
+    text-align: center;
+}
+
+.heading
+{
+    top: 0px;
+    width: 100%;
+}
+
+.note
+{
+    color: black;
+}
+
+canvas
+{
+    border: 2px solid white;
+    border-radius: 10px;
+    margin-top: 250px;
+    box-shadow: 5px 5px 5px white;
+    position: relative;
+}
